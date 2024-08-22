@@ -1,6 +1,9 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Taeung&fontSize=90" />
 
-### Hello, I'm Taeung 🖐️
+<br><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yksr7948&theme=blue-green">
 
 <br>
 <img src="http://poot97.dothome.co.kr/TextGenerator/picture/city2.gif" style="width:750px;">
