@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Taeung&fontSize=90" />
-
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=100">
+<img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+taeung's+GitHub!+👋">
 <br><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yksr7948&theme=blue-green">
